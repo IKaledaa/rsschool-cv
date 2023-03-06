@@ -17,14 +17,14 @@ I am 18 years old. I am currently graduating from a technical college, but I don
 *HTML
 
 *CSS
-====
 ### Code Example
 ```
 function DNAtoRNA(dna) {
   return dna.replaceAll('T','U');
 }
 ```
-### Languages
+
+## Languages
 *Russian(Native Speaker)
 
 *English(A2)
